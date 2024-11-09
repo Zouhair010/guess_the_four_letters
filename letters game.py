@@ -14,7 +14,7 @@ window.geometry('400x200')
 window.resizable(False, False)
 
 # Set a custom icon for the window
-window.iconbitmap("C:\\Users\\dell\\Desktop\\windy_icon-icons.com_67496.ico") #to change the default icon
+window.iconbitmap("C:\\Users\\dell\\Desktop\\mygame\\windy_icon-icons.com_67496.ico") #to change the default icon
 
 # Load and resize a background image
 background_image = Image.open("C:\\Users\\dell\\Desktop\\mygame\\Gemini_Generated_Image_416cbs416cbs416c.jpg") 
